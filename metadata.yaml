@@ -1,0 +1,31 @@
+_repo: Between-the-Dark-and-the-Daylight_12100
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: A sleep and a forgetting -- The eidolons of Brooks Alford -- A memory
+  that worked overtime -- A case of metaphantasmia -- Editha -- Braybridge's offer
+  -- The chick of the Easter egg.
+title: Between the Dark and the Daylight
+url: http://www.gutenberg.org/ebooks/12100
